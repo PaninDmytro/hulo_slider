@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Anime_landing_page/static/css/main.73846104.css",
-    "main.js": "/Anime_landing_page/static/js/main.8879332c.js",
-    "static/media/delete.png": "/Anime_landing_page/static/media/delete.abfe4855b116d929fac5.png",
-    "index.html": "/Anime_landing_page/index.html",
-    "main.73846104.css.map": "/Anime_landing_page/static/css/main.73846104.css.map",
-    "main.8879332c.js.map": "/Anime_landing_page/static/js/main.8879332c.js.map"
+    "main.css": "/hulo_slider/static/css/main.73846104.css",
+    "main.js": "/hulo_slider/static/js/main.a7a8c4b5.js",
+    "static/media/delete.png": "/hulo_slider/static/media/delete.abfe4855b116d929fac5.png",
+    "index.html": "/hulo_slider/index.html",
+    "main.73846104.css.map": "/hulo_slider/static/css/main.73846104.css.map",
+    "main.a7a8c4b5.js.map": "/hulo_slider/static/js/main.a7a8c4b5.js.map"
   },
   "entrypoints": [
     "static/css/main.73846104.css",
-    "static/js/main.8879332c.js"
+    "static/js/main.a7a8c4b5.js"
   ]
 }
